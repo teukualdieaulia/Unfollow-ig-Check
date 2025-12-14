@@ -104,17 +104,4 @@ Silakan lakukan:
 
 ---
 
-## 📄 Lisensi
-
-MIT License
-
----
-
-## ⭐ Dukungan
-
-Jika repository ini bermanfaat:
-
-* Beri ⭐ di GitHub
-* Bagikan ke teman yang membutuhkan
-
-Terima kasih 🙌
+## 📄 made by aledi keren hacker
